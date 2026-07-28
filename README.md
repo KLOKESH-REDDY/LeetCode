@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0881-boats-to-save-people](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -26,9 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
