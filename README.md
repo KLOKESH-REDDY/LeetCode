@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0881-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/KLOKESH-REDDY/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
